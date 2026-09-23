@@ -1,7 +1,7 @@
 <h1 align="center">Yevhenii Ladyk</h1>
 
 <p align="center">
-  <i>Student&nbsp;·&nbsp;Software &amp; IT Systems&nbsp;·&nbsp;Lifelong Learner</i>
+  <i>Student&nbsp;·&nbsp;Software &amp; IT Systems&nbsp;·&nbsp;yevhenii.net</i>
 </p>
 
 <p align="center">
